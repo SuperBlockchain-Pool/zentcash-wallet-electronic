@@ -1,6 +1,6 @@
 ## Zent Cash Electronic Wallet - GUI wallet for ZentCash.
 
-![Zent Cash Electronic Wallet Screens](https://user-images.githubusercontent.com/46155884/55154075-3e8c5e00-5154-11e9-90f5-08a78de41b99.jpg "Zent Cash Electronic Wallet Screens")
+
 
 ### Features:
 
