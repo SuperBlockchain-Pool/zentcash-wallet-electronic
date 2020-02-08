@@ -48,6 +48,7 @@ jobs:
           rm -rf ./dist/*.blockmap
           rm -rf ./dist/*.zip
           rm -rf ./dist/*-unpacked
+          rm -rf ./dist/*.plist
           rm -rf ./dist/mac
           cd dist
           tar cvfz ZentCash-Electronic-Wallet-${TAG}-${{ matrix.target }}.tar.gz *.*
